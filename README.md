@@ -1,10 +1,10 @@
-Seattle, WA, USA
+Awesome Seattle, WA, USA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Seattle, WA, USA. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Seattle, WA, USA. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Seattle, WA, USA
+Top 15 programmers in Seattle, WA, USA
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Seattle, WA, USA.
+These are the 15 most influential programmers in Seattle, WA, USA. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Aaron Patterson [@tenderlove](https://github.com/tenderlove) (59)
 2. Koushik Dutta [@koush](https://github.com/koush) (55)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Ahmet Alp Balkan [@ahmetalpbalkan](https://github.com/ahmetalpbalkan) (28)
 15. Ben Edmunds [@benedmunds](https://github.com/benedmunds) (27)
 
-You can find the comprehensive statistics at the page for [Seattle, WA, USA](http://programmermap.com/area/seattle-wa-usa) at programmermap.com.
+You can find comprehensive statistics at the page for [Seattle, WA, USA](http://programmermap.com/area/seattle-wa-usa) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [es6features](https://github.com/lukehoban/es6features) (7923)
+2. [Projects](http://eepurl.com/SRIPT) (7762)
+3. [solarized](http://ethanschoonover.com/solarized) (7558)
+4. [SlickGrid](http://wiki.github.com/mleibman/SlickGrid) (5141)
+5. [beets](http://beets.radbox.org/) (4041)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
